@@ -1,0 +1,18 @@
+:root {
+    --main-color: #101820;
+    --secondary-color: #DAA520;
+    --background-color: linear-gradient(0deg, rgba(45,66,253,1) 0%, rgba(16,24,32,1) 93%);
+}
+body    {
+    height: 100vh;
+    background: var(--background-color);
+}
+.showcase   {
+   padding-top: 35vh;
+}
+.name   {
+    color: white;
+    text-align: left;
+    font-size: 10em;
+    font-family: fantasy;
+}
